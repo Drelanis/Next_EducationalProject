@@ -5,10 +5,7 @@ const Home = () => {
     <>
       <Head>
         <title>Next Auth</title>
-        <meta
-          name="description"
-          content="I post about programming and web development."
-        />
+        <meta name="description" content="next auth training" />
       </Head>
       <h1>Hello world!</h1>
     </>
