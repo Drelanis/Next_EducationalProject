@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { Notification } from "src/components";
 
 const Home = () => {
   return (
